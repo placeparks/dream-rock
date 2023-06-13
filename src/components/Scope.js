@@ -12,6 +12,8 @@ export default function Scope() {
 const width= useBreakpointValue({base:"100%", md:"30%", lg:"40%"});
 const gap= useBreakpointValue({base:"4rem", md:"20rem", lg:"20rem"});
 const marginTop= useBreakpointValue({base:"-50px", md:"-130px", lg:"-130px"})
+const height= useBreakpointValue({base:"50%", md:"80%", lg:"80%"});
+
   const testimonials = [
     {
       name: "Content Creation & Development",
@@ -80,7 +82,7 @@ name:"Animation Production",
             w="110%"
             bg={testimonial.color}
             position="relative"
-            h="80%"
+            h={height}
             spacing={1}
             zIndex={1} // Add this line
           >
