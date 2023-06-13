@@ -11,7 +11,7 @@ export default function Card(){
     </div>
     <div className="col-md-5 offset-md-1">
   <div className="card-body" style={{color:"white", textAlign:"left"}}>
-    <img style={{marginLeft:"75%"}} src="./frame.png" alt=""/>
+    <img style={{marginLeft:"80%"}} src="./Frame.png" alt=""/>
     <h1 className="card-title">Book Shows & Ongoing Events title</h1>
     <p className="card-text">Lorem ipsum dolor sit amet consectetur adipiscing eli mattis sit phasellus mollis sit aliquam sit nullam.</p>
     <span style={{fontSize: "110px", color: "yellow"}}>&#x2939;</span>
