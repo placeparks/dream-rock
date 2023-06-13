@@ -7,7 +7,7 @@ export default function Hero() {
             <div className="card mb-3" style={{ border: "none", backgroundColor: "transparent" }}>
               <div className="row g-1">
                 <div className="col-md-7 order-md-2 px-md-5">
-                  <img src="./image.jpeg" className="img-fluid rounded-start" alt="..." style={{ marginBottom: "1rem", minHeight:"460px"}} />
+                  <img src="./image.jpeg" className="img-fluid rounded-start" alt="..." style={{ marginBottom: "1rem", minHeight:"400px"}} />
                 </div>
                 <div className="col-md-5 order-md-1">
                   <div className="card-body mt-5" style={{ textAlign: "left", maxWidth: "50%", minWidth: "100%" }}>
