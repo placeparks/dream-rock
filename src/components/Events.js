@@ -12,7 +12,7 @@ export default function Events() {
   const Size = useBreakpointValue({ base: "12px", md: "20px", lg: "23px" });
 const width= useBreakpointValue({base:"100%", md:"30%", lg:"30%"});
 const gap= useBreakpointValue({base:"4rem", md:"20rem", lg:"20rem"});
-const height= useBreakpointValue({base:"60%", md:"80%", lg:"80%"});
+const height= useBreakpointValue({base:"50%", md:"80%", lg:"80%"});
 
   const testimonials = [
     {
