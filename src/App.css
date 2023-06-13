@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.hero{
+padding-top: 4%;
+overflow: hidden;
+height: fit-content;
+
+}
+.events {
+  background-color: #E2F5F9;
+padding: 3%;
+}
+.cards{
+  background-color:#081354;
+  padding: 5%;
+}
+.scope{
+  background-color:#E2F5F9;
+  padding: 4%;
+}
+.faq{
+color: #081354;
+padding: 4%;
+}
+.footer{
+  background-color:#081354;
+color: white;
+}
